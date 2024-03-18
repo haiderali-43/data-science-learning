@@ -1,0 +1,1 @@
+In Pandas .values function is used to convert the series into an array
