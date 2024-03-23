@@ -1,1 +1,2 @@
 In Pandas .values function is used to convert the series into an array
+Great work! .loc[] and .iloc[] are excellent tools for selecting DataFrame values by label and index.
