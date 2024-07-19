@@ -1,0 +1,3 @@
+arange(): This function returns evenly spaced values within a given interval. Step size is specified.
+linspace(): It returns evenly spaced values within a given interval. 
+ reshape method is used to reshape an array. 
